@@ -1,4 +1,3 @@
-@@ -0,0 +1,36 @@
 This is a .net application which runs on a store's self checkout kiosk, and applies proper billing / discounts and provides an itemized summary of the receipt.
 
 The solution uses a domain driven approach with Abstract fatory design pattern for Price calculations. With this approach we are future-proofing the code.
