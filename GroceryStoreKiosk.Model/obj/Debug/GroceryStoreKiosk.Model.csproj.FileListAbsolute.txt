@@ -1,0 +1,4 @@
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Model\bin\Debug\GroceryStoreKiosk.Model.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Model\bin\Debug\GroceryStoreKiosk.Model.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Model\obj\Debug\GroceryStoreKiosk.Model.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Model\obj\Debug\GroceryStoreKiosk.Model.pdb

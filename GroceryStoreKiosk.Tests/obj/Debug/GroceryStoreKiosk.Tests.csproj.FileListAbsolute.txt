@@ -1,0 +1,13 @@
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.Tests.dll.config
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.Tests.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.Tests.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.exe
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.Model.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.FactoryProvider.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.Model.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\bin\Debug\GroceryStoreKiosk.FactoryProvider.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\obj\Debug\GroceryStoreKiosk.Tests.csprojResolveAssemblyReference.cache
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\obj\Debug\GroceryStoreKiosk.Tests.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.Tests\obj\Debug\GroceryStoreKiosk.Tests.pdb

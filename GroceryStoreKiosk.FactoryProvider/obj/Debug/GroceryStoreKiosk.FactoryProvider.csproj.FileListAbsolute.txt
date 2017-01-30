@@ -1,0 +1,7 @@
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.FactoryProvider\bin\Debug\GroceryStoreKiosk.FactoryProvider.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.FactoryProvider\bin\Debug\GroceryStoreKiosk.FactoryProvider.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.FactoryProvider\bin\Debug\GroceryStoreKiosk.Model.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.FactoryProvider\bin\Debug\GroceryStoreKiosk.Model.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.FactoryProvider\obj\Debug\GroceryStoreKiosk.FactoryProvider.csprojResolveAssemblyReference.cache
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.FactoryProvider\obj\Debug\GroceryStoreKiosk.FactoryProvider.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk.FactoryProvider\obj\Debug\GroceryStoreKiosk.FactoryProvider.pdb

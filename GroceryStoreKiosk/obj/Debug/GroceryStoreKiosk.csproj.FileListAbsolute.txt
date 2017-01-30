@@ -1,0 +1,13 @@
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.exe
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.Model.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.FactoryProvider.dll
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.exe.config
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.FactoryProvider.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.Model.pdb
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\obj\Debug\GroceryStoreKiosk.csprojResolveAssemblyReference.cache
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\obj\Debug\GroceryStoreKiosk.exe
+C:\SampleApps\GroceryStoreKiosk\GroceryStoreKiosk\obj\Debug\GroceryStoreKiosk.pdb
+C:\AllVisualStudioSolutions\GroceryStoreKiosk\GroceryStoreKiosk\bin\Debug\GroceryStoreKiosk.exe.config
+C:\AllVisualStudioSolutions\GroceryStoreKiosk\GroceryStoreKiosk\obj\Debug\GroceryStoreKiosk.exe
+C:\AllVisualStudioSolutions\GroceryStoreKiosk\GroceryStoreKiosk\obj\Debug\GroceryStoreKiosk.pdb

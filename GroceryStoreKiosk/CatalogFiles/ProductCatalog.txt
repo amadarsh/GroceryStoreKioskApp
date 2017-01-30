@@ -1,0 +1,4 @@
+1  Banana              0.5       GROUP          
+2  Apple               0.4       BOGO      
+3  Orange              0.6       BOGO      
+4  Mango               0.8       BOGO       
