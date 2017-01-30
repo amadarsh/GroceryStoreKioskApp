@@ -34,3 +34,34 @@ Please make sure, each product is present in one type of catalog only.
 Ex: In this case, Product 'Banana' with a product id as '1' either be in 'BOGODiscountCatalog.txt', 'GroupDiscountCatalog.txt' or 'RegularDiscountCatalog.txt' only.
 
 Note: If the scanned item is not present in the current list of product catalog then the price of that item will not be calculated.
+
+Catalog details: (Data store details)
+
+Product Catalog:
+Columns: Product Id, Product name, Price, Discount Type
+Data format:
+1  Banana              0.5       GROUP          
+2  Apple               0.4       BOGO      
+3  Orange              0.6       BOGO      
+4  Mango               0.8       BOGO       
+
+Discount Catalogs:
+
+Regular Discount catalog
+Columns: Product Id, Discounted Price
+Data format:
+6  0.5                       
+7  0.34
+
+BOGO (Buy One get one) Discount catalog
+Columns: Product Id, Percentage discount
+Data format:
+2  100                 
+3  60             
+4  20                
+
+Group Discount catalog
+Columns: Product Id, Item count eligible for discount, Discounted Price
+Data format:
+1  3  1                                   
+10 5  5
